@@ -11,4 +11,3 @@ horloge = pygame.time.Clock()
 
 pygame.quit()
 sys.exit()
-test = Goku()
